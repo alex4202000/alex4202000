@@ -4,7 +4,7 @@
  
  I'am a student persuing my btech in electrical engineering 
  
- from TECHNO MANIS SALT LAKE KOLKATA
+ from TECHNO MAIN SALT LAKE KOLKATA
  
  I'am very much intrested in coding
  
