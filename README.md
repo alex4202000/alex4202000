@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**alex4202000/alex4202000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+ 
+ I'am a student persuing my btech in electrical engineering 
+ from TECHNO MANIS SALT LAKE KOLKATA
+ I'am very much intrested in coding
+ I know **PYTHON**,**HTLM**,**CSS** and **JAVASCRIPT**
+ Currently I'am learning **C**
+ Apart from Coding i love to play **GUITAR**
+ Track my coding journey https://www.codechef.com/users/alex_12326 
+ 
+ That's IT
+ 
+ **KEEP CODING**
