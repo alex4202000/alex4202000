@@ -4,14 +4,10 @@
  
  I'am a student persuing my btech in electrical engineering 
  
- from TECHNO MAIN SALT LAKE KOLKATA
- 
  I'am very much intrested in coding
  
- I know **PYTHON**,**HTLM**,**CSS** and **JAVASCRIPT**
- 
- Currently I'am learning **C**
- 
+ I know **PYTHON**,**HTLM**,**CSS**,**JAVASCRIPT** and **C**
+
  Apart from Coding i love to play **GUITAR**
  
  Track my coding journey https://www.codechef.com/users/alex_12326 
