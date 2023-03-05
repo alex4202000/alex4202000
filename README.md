@@ -2,16 +2,10 @@
 
 **About me**
  
- I'am a student persuing my btech in electrical engineering 
- 
- I'am very much intrested in coding
- 
- I know **C++**,**HTLM**,**CSS**,**JAVASCRIPT** and **PYTHON**
+ I'm a student at TMSL doing my major in Electrical engineering and very passionate about **CODING** and **DEVELOPMENT** 
 
- Apart from Coding i love to play **GUITAR**
+ I know **C++**,**HTLM**,**CSS**,**JAVASCRIPT** and **PYTHON**
+ MY Leetcode account https://leetcode.com/alexbaba/ 
  
- Track my coding journey https://www.codechef.com/users/alex_12326 
- 
- That's IT
  
  **KEEP CODING**
