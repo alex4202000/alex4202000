@@ -6,7 +6,7 @@
  
  I'am very much intrested in coding
  
- I know **PYTHON**,**HTLM**,**CSS**,**JAVASCRIPT** and **C**
+ I know **C++**,**HTLM**,**CSS**,**JAVASCRIPT** and **PYTHON**
 
  Apart from Coding i love to play **GUITAR**
  
